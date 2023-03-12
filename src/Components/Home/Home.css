@@ -1,0 +1,30 @@
+/* ------------------------------------------HOME SECTION */
+
+.home{
+    min-height: 100vh;
+    
+    background-size: cover;
+    background-position: center;
+    margin-top: -134px;
+    display: flex;
+    align-items: center;
+}
+
+.home .content{
+    max-width: 60rem;
+}
+
+.home .content h3{
+    font-size: 6rem;
+    color: #fff;
+}
+
+.home .content p{
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.8;
+    padding: 1rem 0;
+    color: #fff;
+}
+
+/* ------------------------------------------HOME SECTION */
